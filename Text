@@ -1,7 +1,0 @@
-response.xpath("//div[contains(@class, 'comp taxonomy-cards mntl-block')
-   ...: ]/ul[contains(@class, 'comp card-list mntl-block')]/li[contains(@class, 
-   ...: 'comp card-list__item mntl-block')]/a[contains(@class, 'comp card mntl-c
-   ...: ard card')]//@href").extract()     
-
-response.xpath("//div[contains(@class, 'comp mntl-sc-block finance-sc-bl
-   ...: ock-html mntl-sc-block-html')]//p[not(@*)]/text()").extract() 
